@@ -3,7 +3,7 @@ export default [
 		id: 1,
 		title: "Experience",
 		description:
-			"In my 5 years as a professional front end developer, I have had the opportunity to work with some great companies.",
+			"In working with a large tech company and a startup, I garnered experiences from different work cultures, working with large volumes of data to synthesize meaningful business insights",
 		path: "/experience",
 	},
 	{
