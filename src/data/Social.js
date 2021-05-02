@@ -16,4 +16,14 @@ export default [
         linkTo: true,
         path: "https://www.linkedin.com/in/shreyasridhariitb/"
     },
+    {
+        id: 5,
+        title: "Phone",
+        icon: linkedin,
+        linkTo: true,
+        path: "https://www.linkedin.com/in/shreyasridhariitb/"
+    },
 ];
+
+
+

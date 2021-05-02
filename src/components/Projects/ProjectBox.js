@@ -96,7 +96,7 @@ const ProjectBox = ({ info }) => (
           }
           {
             info.demoPath != null ?
-            <a href={info.demoPath}>Project Demo </a> : ''
+            <a href={info.demoPath}>Website </a> : ''
           }
           <p>Development year - {info.year} </p>
           <p>Technology stack - {info.techUsed} </p>
