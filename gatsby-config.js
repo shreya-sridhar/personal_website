@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Shreya Sridhar',
-    siteUrl: 'shreya-sridhar.github.io',
+    siteUrl: 'https://shreya-sridhar.github.io',
   },
 
   plugins: [
@@ -25,4 +25,6 @@ module.exports = {
     },
   ],
 }
+
+
 
