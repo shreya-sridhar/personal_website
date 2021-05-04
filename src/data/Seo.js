@@ -3,7 +3,7 @@ import favicon from '../assets/images/rash-favicon.png'
 export const aboutWebsite = {
     "@context": "http://schema.org",
     "@type": "WebSite",
-    "url": "http://Shreyaap.me",
+    "url": "http://shreya-sridhar.github.io",
     "name": "Shreya AP | Front-end Engineer, Zoojoobe",
     "author": {
         "@type": "Person",

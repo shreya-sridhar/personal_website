@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Shreya Sridhar',
-    siteUrl: 'https://shreyastorage.blob.core.windows.net/shreyasridhariitbresume/shreya_iitb_resume.pdf',
+    siteUrl: 'shreya-sridhar.github.io',
   },
 
   plugins: [
