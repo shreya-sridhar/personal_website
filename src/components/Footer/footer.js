@@ -6,20 +6,12 @@ const Footer = ({ footerClass }) => (
 		<p>
 			View site source on{" "}
 			<a
-				href="https://github.com/Shreyaap/personal-website-react"
+				href="https://github.com/shreya-sridhar/personal_website"
 				target="_blank"
 				rel="noreferrer"
 			>
 				Github
 			</a>{" "}
-			| Designer{" "}
-			<a
-				href="https://www.behance.net/ntshgdwn3596"
-				target="_blank"
-				rel="noreferrer"
-			>
-				Natasha G
-			</a>
 		</p>
 	</div>
 );

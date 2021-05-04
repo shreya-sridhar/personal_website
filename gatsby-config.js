@@ -3,6 +3,7 @@ module.exports = {
     title: 'Shreya Sridhar',
     siteUrl: 'https://shreyastorage.blob.core.windows.net/shreyasridhariitbresume/shreya_iitb_resume.pdf',
   },
+
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-styled-components',
@@ -24,3 +25,4 @@ module.exports = {
     },
   ],
 }
+
